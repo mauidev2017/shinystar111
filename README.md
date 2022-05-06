@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartdev0926.
+- 👋 Hi, I’m @shinystar0926.
 - 👀 I’m interested in blockchain smart contract development.
 - 🌱 I’m currently learning Rust
 
