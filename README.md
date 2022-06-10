@@ -1,10 +1,7 @@
 ## INTRODUCTION
 I am a passionate and skilled Full-stack Developer with 4 years of professional experience looking to contribute knowledge in web and blockchain
 technology. I am proficient at performing well as working in a group or independently in a fast-paced setting and also I have deep understanding of SOLID principles,
-various blockchain protocols and environments, smart contract, pixel-perfect frontend development, well-archtectured backend developmen and test-driven development.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website.
-I can work efficiently with minimum supervision and I am always eager to learn new skills.
+various blockchain protocols and environments, smart contract, pixel-perfect frontend development and test-driven development. I specialize in building robust backends that do all the heavy lifting for your app or website. I can work efficiently with minimum supervision and I am always eager to learn new skills.
 
 ## SKILL SET
 <div align="center">  
