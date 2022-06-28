@@ -36,17 +36,17 @@ various blockchain protocols and environments, smart contract, pixel-perfect fro
 <br/>  
 
 ## GITHUB STATS
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shinystar0926.shinystar0926" />
-<img align="right" src="https://img.shields.io/github/followers/shinystar0926?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shinystar1995.shinystar1995" />
+<img align="right" src="https://img.shields.io/github/followers/shinystar1995?label=Follow&style=social" />
 <!-- <h1 align="center"></h1>
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=shinystar0926&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shinystar1995&column=7&theme=onedark"/>
 </p>
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=shinystar0926&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinystar0926&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=shinystar1995&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinystar1995&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> -->
 
-<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=shinystar0926&theme=github&count_private=true" /></p>
+<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=shinystar1995&theme=github&count_private=true" /></p>
 
 
 
